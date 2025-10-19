@@ -7,3 +7,4 @@ fast forward test.
 no-ff test.
 stash test.
 fix bug  102.
+git try commit.
